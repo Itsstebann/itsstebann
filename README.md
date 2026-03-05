@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm David 👋</h1>
-<h3 align="center">Data Analyst | Python • SQL • Power BI</h3>
+<h3 align="center">Data Analyst and Fullstack Developer | Python • Java • SQL • Power BI  •</h3>
 
 <p align="center">
 Analytical mindset with a strong interest in turning data into clear insights.<br/>
