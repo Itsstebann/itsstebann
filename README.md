@@ -30,4 +30,8 @@ Currently exploring AI-powered tools and intelligent integrations.
 ---
 
 ### Contact
-LinkedIn: linkedin.com/in/devdavidrodriguez
+<p align="left">
+<a href="https://www.linkedin.com/in/devdavidrodriguez" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+</a>
+</p>
