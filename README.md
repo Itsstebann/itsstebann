@@ -1,42 +1,83 @@
-<h1 align="center">Hi, I'm David </h1>
-<h3 align="center">Data Analyst and Fullstack Developer | Python • Java • SQL • Power BI  •</h3>
+<h1 align="center">Hi, I'm David</h1>
+<h3 align="center">
+Backend Developer specialized in Python | APIs • Automation • Scalable Systems
+</h3>
 
 <p align="center">
-Analytical mindset with a strong interest in turning data into clear insights.<br/>
-Currently focused on data analysis while strengthening my programming foundations.
+Focused on building robust backend solutions, integrating APIs, and designing scalable data architectures.<br/>
+Passionate about automation and AI-powered tools.
 </p>
 
 <br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Advanced-blue" />
-  <img src="https://img.shields.io/badge/SQL-Advanced-success" />
-  <img src="https://img.shields.io/badge/Power%20BI-Advanced-yellow" />
-  <img src="https://img.shields.io/badge/Excel-Advanced-green" />
+  <img src="https://img.shields.io/badge/APIs-Advanced-success" />
+  <img src="https://img.shields.io/badge/Backend-Advanced-black" />
+  <img src="https://img.shields.io/badge/Automation-Advanced-orange" />
 </p>
 
 ---
 
 ###  About Me
--  Data Analyst focused on data cleaning, analysis, and visualization  
--  Python for data analysis (pandas, numpy, matplotlib)  
--  SQL for querying and structuring data  
--  Dashboards and reports with Power BI & Excel  
--  Building consistency through real projects, not endless courses  
+- Backend Developer focused on **Python and API development**
+- Experience building and integrating **REST APIs**
+- Strong interest in **automation and scalable systems**
+- Working with **AI tools, LLMs, and intelligent integrations**
+- Building real-world projects with practical impact
 
 ---
 
 ###  Tech Stack
-- **Languages:** Python, SQL  
-- **Data Tools:** Power BI, Excel  
-- **Programming Foundations:** Git, basic backend logic  
+
+####  Languages
+- Python  
+- JavaScript  
+- SQL  
+
+####  Databases
+- PostgreSQL  
+- MySQL  
+- Oracle DB  
+
+####  APIs & Auth
+- REST APIs  
+- JSON  
+- JWT  
+- OAuth 2.0  
+- OpenID  
+- Cookie-based Authentication  
+
+####  DevOps
+- Git  
+- GitHub / GitLab  
+- Docker  
+- CI/CD  
+
+####  Security & Performance
+- Web Security  
+- Hashing  
+- Caching  
+
+####  AI & Automation
+- LLMs  
+- Prompt Engineering  
+- AI Agents  
+- Claude Code / Codex  
+
+####  Frontend (Basic)
+- HTML  
+- CSS  
+- React  
+- Bootstrap  
 
 ---
 
 ###  Current Focus
-- Creating end-to-end data analysis projects  
-- Improving analytical thinking and problem-solving  
-- Building a solid and honest GitHub portfolio  
+- Building scalable backend systems with Python  
+- API integrations and automation workflows  
+- Developing AI-powered solutions  
+- Strengthening system design and architecture skills  
 
 ---
 
